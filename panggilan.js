@@ -21,7 +21,7 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2018/10/get-insured-before-mishap-decides-to.htm"}
+if(x=="1"){xxx="/2018/10/get-insured-before-mishap-decides-to.html"}
 if(x=="2"){xxx="/2018/10/fire-claims-tips-for-filing-insurance.html"}
 if(x=="3"){xxx="/2018/10/fire-claims-process.html"}
 if(x=="4"){xxx="/2018/10/property-claims-adjuster-what-they-do.html"}
